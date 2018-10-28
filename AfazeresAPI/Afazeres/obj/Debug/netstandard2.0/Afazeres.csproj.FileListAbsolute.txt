@@ -1,0 +1,16 @@
+C:\Users\pacheco1996\Documents\Visual Studio 2017\Projects\AfazeresAPI\Afazeres\bin\Debug\netstandard2.0\Afazeres.deps.json
+C:\Users\pacheco1996\Documents\Visual Studio 2017\Projects\AfazeresAPI\Afazeres\bin\Debug\netstandard2.0\Afazeres.dll
+C:\Users\pacheco1996\Documents\Visual Studio 2017\Projects\AfazeresAPI\Afazeres\bin\Debug\netstandard2.0\Afazeres.pdb
+C:\Users\pacheco1996\Documents\Visual Studio 2017\Projects\AfazeresAPI\Afazeres\bin\Debug\netstandard2.0\System.ComponentModel.DataAnnotations.dll
+C:\Users\pacheco1996\Documents\Visual Studio 2017\Projects\AfazeresAPI\Afazeres\bin\Debug\netstandard2.0\System.Configuration.dll
+C:\Users\pacheco1996\Documents\Visual Studio 2017\Projects\AfazeresAPI\Afazeres\bin\Debug\netstandard2.0\System.Security.dll
+C:\Users\pacheco1996\Documents\Visual Studio 2017\Projects\AfazeresAPI\Afazeres\bin\Debug\netstandard2.0\System.ComponentModel.DataAnnotations.xml
+C:\Users\pacheco1996\Documents\Visual Studio 2017\Projects\AfazeresAPI\Afazeres\bin\Debug\netstandard2.0\System.Configuration.xml
+C:\Users\pacheco1996\Documents\Visual Studio 2017\Projects\AfazeresAPI\Afazeres\bin\Debug\netstandard2.0\System.Security.xml
+C:\Users\pacheco1996\Documents\Visual Studio 2017\Projects\AfazeresAPI\Afazeres\obj\Debug\netstandard2.0\Afazeres.csproj.CoreCompileInputs.cache
+C:\Users\pacheco1996\Documents\Visual Studio 2017\Projects\AfazeresAPI\Afazeres\obj\Debug\netstandard2.0\Afazeres.AssemblyInfoInputs.cache
+C:\Users\pacheco1996\Documents\Visual Studio 2017\Projects\AfazeresAPI\Afazeres\obj\Debug\netstandard2.0\Afazeres.AssemblyInfo.cs
+C:\Users\pacheco1996\Documents\Visual Studio 2017\Projects\AfazeresAPI\Afazeres\obj\Debug\netstandard2.0\Afazeres.csproj.CopyComplete
+C:\Users\pacheco1996\Documents\Visual Studio 2017\Projects\AfazeresAPI\Afazeres\obj\Debug\netstandard2.0\Afazeres.dll
+C:\Users\pacheco1996\Documents\Visual Studio 2017\Projects\AfazeresAPI\Afazeres\obj\Debug\netstandard2.0\Afazeres.pdb
+C:\Users\pacheco1996\Documents\Visual Studio 2017\Projects\AfazeresAPI\Afazeres\obj\Debug\netstandard2.0\Afazeres.csprojAssemblyReference.cache

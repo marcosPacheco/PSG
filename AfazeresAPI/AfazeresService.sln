@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2048
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AfazeresAPI", "AfazeresAPI\AfazeresAPI.csproj", "{B5EBF66F-8B35-44A2-B473-2433502F33EE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Afazeres", "Afazeres\Afazeres.csproj", "{4F5319A3-3FF9-4C1C-967D-E3F098249808}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B5EBF66F-8B35-44A2-B473-2433502F33EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5EBF66F-8B35-44A2-B473-2433502F33EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5EBF66F-8B35-44A2-B473-2433502F33EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5EBF66F-8B35-44A2-B473-2433502F33EE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4F5319A3-3FF9-4C1C-967D-E3F098249808}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F5319A3-3FF9-4C1C-967D-E3F098249808}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F5319A3-3FF9-4C1C-967D-E3F098249808}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F5319A3-3FF9-4C1C-967D-E3F098249808}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B90253C6-36C8-4630-988D-8D2BA334A82C}
+	EndGlobalSection
+EndGlobal
